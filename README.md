@@ -10,7 +10,7 @@ A collection of hacking / penetration testing resources to make you better!
 
 **Let's make it the biggest resource repository for our community.**
 
-**You are welcome to fork and [contribute](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/contributing.md#contribution-guidelines).**
+You are welcome to fork and [contribute](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/contributing.md#contribution-guidelines).**
 
 We started a new [tools](https://github.com/vitalysim/Awesome-Hacking-Resources/blob/master/tools.md) list, come and contribute
 
@@ -242,7 +242,7 @@ Name    |    Description
 ----    |    ----
 [4 Ways get linux privilege escalation](http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/) | shows different examples of PE
 [A GUIDE TO LINUX PRIVILEGE ESCALATION](https://payatu.com/guide-linux-privilege-escalation/) | Basics of Linux privilege escalation
-[Abusing SUDO (Linux Privilege Escalation)](http://touhidshaikh.com/blog/?p=790) | Abusing SUDO (Linux Privilege Escalation)
+[Abusing SUDO (Linux Privilege Escalation)](jdnxnxnxx://touhidshaikh.com/blog/?p=790) | Abusing SUDO (Linux Privilege Escalation)
 [AutoLocalPrivilegeEscalation](https://github.com/ngalongc/AutoLocalPrivilegeEscalation) | automated scripts that downloads and compiles from exploitdb
 [Basic linux privilege escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/) | basic linux exploitation, also covers Windows
 [Common Windows Privilege Escalation Vectors](https://www.toshellandback.com/2015/11/24/ms-priv-esc/) | Common Windows Privilege Escalation Vectors
